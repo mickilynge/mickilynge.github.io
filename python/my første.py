@@ -1,0 +1,7 @@
+print ("hvad fuck er det her")
+print ("det mangler fanme salt")
+print ("mere salt")
+myname = input()
+print ("det godt mere salt, " + myname)
+myage = input()
+print("du bliver " + str(int(myage) + 1) + " in next år.")
